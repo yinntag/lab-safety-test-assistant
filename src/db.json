@@ -91,7 +91,7 @@
       "type": "判断题",
       "content": "380V电源停电时，拔保险应先拨中间相",
       "answers": [
-        "对 RIGHT"
+        "对 RIGHT",
         "错 WRONG"
       ],
       "mark": "A"
@@ -4045,7 +4045,7 @@
     },
     {
       "type": "判断题",
-      "content": "剧毒品的标识是:\n ",
+      "content": "剧毒品的标识是:\n ",
       "answers": [
         "对 RIGHT",
         "错 WRONG"
@@ -14549,7 +14549,7 @@
     },
     {
       "type": "判断题",
-      "content": "电离辐射的标识是:\n ",
+      "content": "电离辐射的标识是:\n ",
       "answers": [
         "对 RIGHT",
         "错 WRONG"
@@ -14567,7 +14567,7 @@
     },
     {
       "type": "判断题",
-      "content": "电离辐射（放射性）的警告标识是: \n",
+      "content": "电离辐射（放射性）的警告标识是: \n",
       "answers": [
         "对 RIGHT",
         "错 WRONG"
