@@ -1,5 +1,5 @@
 (function () {
-  fetch('https://raw.githubusercontent.com/wangzexi/lab-safety-test-assistant/master/src/db.json')
+  fetch('https://raw.githubusercontent.com/yinntag/lab-safety-test-assistant/master/src/db.json')
     .then(response => response.json())
     .then(data => solve(data.questions))
 
